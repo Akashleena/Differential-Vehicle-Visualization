@@ -30,5 +30,5 @@ This project is made to give a glance of some simple packages of ROS like urdf,r
         
  Demo:
  
- https://www.youtube.com/watch?v=bRLGFTX2dQE
+https://youtu.be/IFPkXMZmdUM
 
