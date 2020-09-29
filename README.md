@@ -27,4 +27,8 @@ This project is made to give a glance of some simple packages of ROS like urdf,r
 3. Using roslaunch command, run the following commad
 
         roslaunch project_ws final1.launch
+        
+ Demo:
+ 
+ https://www.youtube.com/watch?v=bRLGFTX2dQE
 
