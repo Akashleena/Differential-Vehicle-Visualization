@@ -32,3 +32,7 @@ This project is made to give a glance of some simple packages of ROS like urdf,r
  
 https://youtu.be/IFPkXMZmdUM
 
+ROS Developer Learning Course:
+
+https://robocademy.com/2020/06/25/enroll-in-robot-operating-system-learning-path-by-lentin-joseph/#:~:text=The%20ROS%20Developer%20learning%20path,in%20ROS%20within%20this%20time.
+
